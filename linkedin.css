@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.bg-nav{
+    background-color: #293138;
+}
+
+.border-t{
+border-top: 1px solid #495057;
+}
+.card-footer:hover {
+    opacity:0.6;
+    cursor:pointer
+}
+.card-body:hover{
+    opacity: 0.7;
+}
+section:hover{
+    background-color: #495057;
+}
+#ücnokta:hover{
+    background-color: #495057;
+    border-radius: 50%;
+    
+}
+.ortala {
+    margin-left: 10%;
+    margin-right:10%;
+  }
